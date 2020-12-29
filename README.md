@@ -8,8 +8,7 @@ The model with the best performance is MLP(300) on HOG features on non-processed
 ## 3. Content of the repository:
 ### 3.1 Data
 * Includes train and test images in the dataset under .npy format. Images are separated into processed image and original images
-* Due to file size restriction, the data for this project can be accessed through <shorturl.at/fjy68>
-
+* Due to file size restriction, the data for this project can be accessed through [drive](https://shorturl.at/fjy68)
 ### 3.2 Notebook
 Includes Jupyter notebook files of our 3 models (MLP, RF and SVM) trained on HoG features, SIFT+BoW features and on the images themselves
 
@@ -21,3 +20,7 @@ Includes the model with the best performance
 ### 3.5 Demo file
 Run `python demo.py` to start the demonstration program. Upload a traffic sign and let the program predict the label
 
+### 3.6 Team members:
+- Ngô Phương Nhi
+- Lâm Văn Sang Em
+- Đặng Chí Trung
